@@ -1,0 +1,13 @@
+Rooms,Width,Height
+elevator,255,480
+master bedroom,320,300
+kid bedroom,365,235
+guest room,365,235
+toilet A,280,235
+toilet B,0,0
+balcony A,640,145
+balcony B,0,0
+living room,360,330
+dinner space,360,235
+kitchen,270,215
+laundry,223.6,223.6

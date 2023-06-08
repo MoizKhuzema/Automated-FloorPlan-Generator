@@ -1,0 +1,15 @@
+master bedroom,toilet B
+master bedroom,living room
+master bedroom,balcony A
+guest room,living room
+kid bedroom,living room
+kitchen,dinner space
+kitchen,toilet A
+kitchen,laundry
+kitchen,outside
+laundry,outside
+living room,outside
+toilet A,outside
+kid bedroom,outside
+guest room,outside
+toilet B,outside
